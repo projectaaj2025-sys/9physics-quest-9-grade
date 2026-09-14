@@ -1,0 +1,22 @@
+{
+  "name": "physics-quest-9-grade",
+  "version": "1.0.0",
+  "description": "Физика-Квест: Орбита-9 — образовательная RPG-игра по физике 9 класса (48 уровней)",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . -l 3000"
+  },
+  "keywords": [
+    "physics",
+    "education",
+    "game",
+    "9th grade",
+    "kazakhstan",
+    "rpg",
+    "gamification"
+  ],
+  "author": "Physics Quest Project",
+  "license": "MIT",
+  "private": true
+}
